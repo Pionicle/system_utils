@@ -8,7 +8,8 @@ authors = [
 requires-python = ">=3.14"
 dependencies = [
     "psutil (>=7.2.2,<8.0.0)",
-    "tabulate (>=0.10.0,<0.11.0)"
+    "tabulate (>=0.10.0,<0.11.0)",
+    "watchdog (>=6.0.0,<7.0.0)"
 ]
 
 
